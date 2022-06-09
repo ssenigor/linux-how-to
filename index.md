@@ -1,8 +1,7 @@
-## Welcome to My Linux How-to pages
+## My Linux How-to pages
 
-You can use the [editor on GitHub](https://github.com/ssenigor/linux-how-to/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This site has been created for own using and quick search answers of Linux system issues.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
