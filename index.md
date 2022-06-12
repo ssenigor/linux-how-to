@@ -1,9 +1,12 @@
 This site has been created for own using and quick search answers of Linux system issues.
 
 
-### Markdown
+### Nomad notes
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+Here I collect my useful for me notes about Nomad cluster
+
+
 
 ```markdown
 Syntax highlighted code block
