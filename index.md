@@ -1,5 +1,3 @@
-## My Linux How-to pages
-
 This site has been created for own using and quick search answers of Linux system issues.
 
 
