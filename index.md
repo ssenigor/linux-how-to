@@ -8,7 +8,7 @@ Here I collect my useful for me notes about Nomad cluster
 
 
 
-Install Nomad Cluster (TLS, certificates)
+Install Nomad Cluster (TLS, certificates) <br>
 https://mykidong.medium.com/install-nomad-cluster-d9a40d2206f5
 
 
