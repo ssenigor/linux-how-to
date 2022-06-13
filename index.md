@@ -7,6 +7,8 @@ This site has been created for own using and quick search answers of Linux syste
 Here I collect my useful for me notes about Nomad cluster
 
 
+[https://mykidong.medium.com/install-nomad-cluster-d9a40d2206f5] (url) | Install Nomad Cluster (TLS, certificates)
+
 
 ```markdown
 Syntax highlighted code block
